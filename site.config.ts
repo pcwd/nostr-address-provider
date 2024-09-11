@@ -1,12 +1,12 @@
 export default {
   // your domain name
-  host: "justpurple.club",
+  host: "onlynostr.club",
 
   // set to true to disable registration site-wide
   registrationDisabled: false,
 
   // site slogan
-  slogan: "Nostr addresses.",
+  slogan: "Nostr NIP-05 vanity addresses.",
 
   // your donation LNURL
   donationLNUrl:
