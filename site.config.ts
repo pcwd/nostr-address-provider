@@ -1,6 +1,6 @@
 export default {
   // your domain name
-  host: "zaps.lol",
+  host: "justpurple.club",
 
   // set to true to disable registration site-wide
   registrationDisabled: false,
@@ -10,7 +10,7 @@ export default {
 
   // your donation LNURL
   donationLNUrl:
-    "LNURL1DP68GURN8GHJ7MR9VAJKUEPWD3HXY6T5WVHXXMMD9AKXUATJD3CZ7JMPVDV9YCC4FVREX",
+    "LNURL1DP68GURN8GHJ7MRWVF5HGUEWD3H8WCTVD3JHGTNPWPCZ7MRWW4EXCUP0FEXXW6JCD5PE9Y7N",
 
   // name of your MongoDB database
   dbName: "users",
