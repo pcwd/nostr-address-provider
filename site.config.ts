@@ -10,7 +10,7 @@ export default {
 
   // your donation LNURL
   donationLNUrl:
-    "LNURL1DP68GURN8GHJ7MRWVF5HGUEWD3H8WCTVD3JHGTNPWPCZ7MRWW4EXCUP023FHWVEHGVNDLFYW",
+    "lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkvatjw35hvetndakxg6t9wgunws9rvds",
 
   // name of your MongoDB database
   dbName: "users",
