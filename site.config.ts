@@ -6,7 +6,7 @@ export default {
   registrationDisabled: false,
 
   // site slogan
-  slogan: "Nostr & Lightning Vanity Addresses.",
+  slogan: "Nostr NIP05 Service",
 
   // your donation LNURL
   donationLNUrl:
