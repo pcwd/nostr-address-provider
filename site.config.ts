@@ -6,7 +6,7 @@ export default {
   registrationDisabled: false,
 
   // site slogan
-  slogan: "Nostr NIP05 Service",
+  slogan: "Nostr NIP05 Address Service",
 
   // your donation LNURL
   donationLNUrl:
